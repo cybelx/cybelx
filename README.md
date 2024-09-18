@@ -1,4 +1,12 @@
-## Hi there 👋
+## Heyyy, I'm Cyv 👋   
+
+🎯 Current focus: WordPress
+
+🌱 I’m currently brushing up on some languages I took in previous years while also exploring Dart, C++, and JavaScript.
+
+✨ Interests: Reading, Gaming, Watching TV Series (Comedies, Murder Mysteries, Animation), Listening to music
+
+⚡ Quick fact: I love the color blue 💙💎🔷
 
 <!--
 **cybelx/cybelx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
