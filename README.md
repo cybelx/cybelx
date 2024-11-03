@@ -1,12 +1,12 @@
 ## Heyyy, I'm Cyv 👋   
 
-🎯 Current focus: WordPress <br />   
-S: 09/21/2024 <br />
-E: TBA
+🎯 Current focus: Python
+S: 11/03/2024
+
 <br />
 <br />     
 
-🌱 I’m currently brushing up on some languages I took in previous years while also exploring Dart, C++, and JavaScript.
+🌱 I’m currently brushing up on some languages I took in previous years while also exploring JavaScript.
 
 ✨ Interests: Reading, Gaming, Watching TV Series (Comedies, Murder Mysteries, Animation), Listening to music
 
