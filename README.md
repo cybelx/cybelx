@@ -14,6 +14,10 @@ S: 11/03/2024
 <br />
 <br />
 <br />
+
+That's it for now!
+
+<!--
 Here's a photo of my bae 💙
 <br />
 <br />
