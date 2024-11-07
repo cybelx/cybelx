@@ -12,6 +12,8 @@ S: 11/03/2024
 
 ✨ Interests: Reading, Gaming, Watching TV Series (Comedies, Murder Mysteries, Animation), Listening to music
 
+🎧 Song reco: LET THE WORLD BURN 🔥 by Chris Grey
+
 ⚡ Quick fact: I love the color blue 💎🔷
 <br />
 <br />
