@@ -10,7 +10,7 @@ S: 11/03/2024
 
 🌱 I’m currently brushing up on some languages I took in previous years while also exploring JavaScript.
 
-✨ Interests: Reading, Gaming, Watching TV Series (Comedies, Murder Mysteries, Animation), Listening to music
+✨ Interests: Reading, Gaming, Watching TV Series (Comedies, Murder Mysteries, Animation), Listening to music, Staying at home 🤣
 
 🎧 Song reco: LET THE WORLD BURN 🔥 by Chris Grey
 
