@@ -1,14 +1,14 @@
 ## Heyyy, I'm Cyv 👋   
 
-🎯 Current focus: Python
+🎯 Current focus: Python + JavaScript
 <br />
 <br />
-S: 11/03/2024
+S: 01/08/2025
 
 <br />
 <br />     
 
-🌱 I’m currently brushing up on some languages I took in previous years while also exploring JavaScript.
+🌱 I’m brushing up on some languages ...
 
 ✨ Interests: Reading, Gaming, Watching TV Series (Comedies, Murder Mysteries, Animation), Listening to music, Staying at home 🤣
 
