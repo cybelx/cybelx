@@ -1,9 +1,6 @@
 ## Heyyy, I'm Cyv 👋   
 
-🎯 Current focus: Python + JavaScript
-<br />
-<br />
-S: 01/08/2025
+🎯 Current focus: JavaScript
 
 <br />
 <br />     
